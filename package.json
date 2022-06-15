@@ -1,0 +1,17 @@
+{
+  "name": "login-form-php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server /Html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "lite-server": "^2.6.1",
+    "php": "^1.0.2"
+  }
+}
