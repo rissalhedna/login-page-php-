@@ -2,4 +2,4 @@ run:
 1) npm install
 2) yarn add mysql
 
-Use MAMP to lauch the PHP server in host 3306
+Use MAMP to lauch the PHP server in port 3306
